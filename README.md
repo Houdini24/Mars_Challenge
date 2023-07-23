@@ -22,4 +22,13 @@ I created a Beautiful Soup object and used it to extract text elements from the 
 * There are 1867 terrestrial (earth) days in a Martian year.
 
 
+### Acknowledgements
+I used the following resources to help complete this project:
 
+* AskBCS Learning Assistants
+* GitHub
+* UCB Coding Bootcamp GitLab
+* ChatGPT
+* Bootcamp Tutor David Chao
+* W3 Schools
+* Jupyter Notebook
